@@ -1,0 +1,13 @@
+.pap{
+    max-height: 560px;
+    max-width: 400px;
+    justify-self: center;
+    height: 560px;
+    width: 400px;
+}
+
+.content{
+    max-width: 400px;
+    max-height: 440px;
+    justify-self:center;
+}

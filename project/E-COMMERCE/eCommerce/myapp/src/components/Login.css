@@ -1,0 +1,30 @@
+.papbox{
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    border-radius: 20px;
+}
+
+.boxcont{
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 30px;
+
+}
+
+.boxhead{
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.pap{
+    height: 415px;
+    width: 400px;
+    border-radius: 50px;
+}
